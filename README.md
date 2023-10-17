@@ -44,7 +44,7 @@ If using the python files:
 * Download the .py files
 * Open a terminal and locate where the downloaded datasets and files are on your local machine.
 * Create a new environment to run everything in.
-* Run this line in your terminal: 
+* Run this line in your terminal: python CycleGAN_Mini_Project.py
 
 ## Help
 
